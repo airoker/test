@@ -1,3 +1,4 @@
 i am airoker
 this is the init file
 update 0605
+xxx
